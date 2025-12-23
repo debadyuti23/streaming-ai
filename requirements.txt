@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch
+torchvision
+torchaudio
+
+transformers
+huggingface-hub
+numpy
+av
+Pillow
+
+diffusers
+accelerate
+
+opencv-python
+
+matplotlib
